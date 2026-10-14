@@ -1,8 +1,4 @@
----
 
-## 📄 `README.md`
-
-````markdown
 # 🎯 Model Steering with Python
 
 > Control what a language model says — without fine-tuning, without prompt engineering. Just math.
