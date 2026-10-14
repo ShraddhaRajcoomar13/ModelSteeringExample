@@ -213,38 +213,6 @@ Give the repo a star — it helps others find it!
 
 ---
 
-## 📌 GitHub Repository Description (short — for the "About" box)
-
-Pick one:
-
-**Option A (descriptive):**
-> 🎯 Hands-on guide to steering LLM behavior by editing hidden states — no fine-tuning required. Works with GPT-2, Llama, Mistral.
-
-**Option B (punchy):**
-> Control what LLMs say by nudging their internal activations. Beginner-friendly PyTorch + Transformers tutorial.
-
-**Option C (SEO-friendly):**
-> Activation steering / representation engineering for transformers in Python. Learn to modify hidden states with forward hooks — GPT-2, Llama, Mistral examples.
-
----
-
-## 🏷️ Suggested GitHub Topics
-
-```
-llm
-activation-steering
-representation-engineering
-interpretability
-transformers
-pytorch
-gpt2
-llama
-mechanistic-interpretability
-ai-safety
-```
-
----
-
 ## 📋 `requirements.txt`
 
 ```txt
@@ -253,4 +221,3 @@ transformers>=4.30.0
 numpy>=1.24.0
 ```
 
----
